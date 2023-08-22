@@ -28,7 +28,7 @@ The models were then compared using the following performance metrics:
 ![Results](https://github.com/Abhilash1781/Carbonzilla/assets/72621930/4fb1d2ad-0a6c-4c0b-9174-c06e4b137cab)
 
 
-The FB Prophet model outperformed all other models with an R2 Score of 0.97 and a RMSE of 0.05.
+The **FB Prophet** model outperformed all other models with an R2 Score of 0.97 and a RMSE of 0.05.
 Hence we considered the same model for forecasting from 2021-2030.
 
 
@@ -41,7 +41,7 @@ Here,
 3) 'yhat_lower': The lower bound of the predicted values.
 4) 'yhat_upper': The upper bound of the predicted values.
 
-It forecasts that by the year 2030, the CO2 emissions (metric tons per capita) around the world will 4.28.
+**It forecasts that by the year 2030, the CO2 emissions (metric tons per capita) around the world will 4.28.**
 ![FB Prophet Predictions](https://github.com/Abhilash1781/Carbonzilla/assets/72621930/47b4e312-a94c-45f9-9a91-2a6535884cfb)
 
 
